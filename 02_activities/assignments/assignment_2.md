@@ -9,27 +9,48 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
+    The Tableau is my love. Incredible visualization! 
+    One of the fabulous examples is "How Common Is Your Birthday?" by Lisa Trescott, https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday. The subject of analytic was statistic of live birth in the USA between 1994 and 2014. 
+    I was absolutely attracted by this piece of art. In my opinion, this is a good example of visualization. Aesthetic, looks like substantive, perceptual.
+    - The color scale was chosen correctly according to the strong association with a new born, new life, and cheerful - white and the multiply shades of pink. The same meaning have the pictures of balloons on the plot. 
+    - In the same color scale Author gives us a few ranks of data placing them very compact and proportionally.  
+    - Clear and easy-to-understand data design. 
+    - Clean layouts and geometric shapes and lines
+    - A few tools for exploring data.
+    - According to the Gestalt principles, the plot has an open structure that perceive as complete and make association as a presentation of a full year.
+    - The author added some generalization to this plot that help us to understand the tendency of the process.
+    - The author also used one more psihological hook - interactivnes with the game form for presentation data. We are driven by curiosity and click spot by spot to explore in the pop-up windows the birthdays of all our family members and loved ones.
+    - Inclusion of data sources at the bottom of the image (U.S. National Canter for Health Statistics...)    
+
+    The next visualization needs some improvals, in my opinion. 
+    "Most Popular Social Media Platforms" by Devi Arnita: https://public.tableau.com/app/profile/devi.arnita/viz/SocialMediaPlatformsDeviPublicver/CircularSankey
+    At first sight, the shape of the plot is nice and colorful. In the same time:
+    - This visualization is useless. We don't receive any numerical data from the picture although this is the most important content in the graphics.  
+    - The distribution of data is unclear. Is it ranking of social media platforms? If yes, what is the concept of ranking data (the amount of users, the amount of profit etc.)? Where is the max and min value? What was the period of research?
+    - The link for the data source is provided but it's not very representative. It doesn't clear who is the author of the research. Can we trust this information?
+    - Layout is not clear. 
+    - Visualization is multidimensional, messy, with many useless points.
+    - Visualization is without any exploration or description. It's hard to do some conclusion from this picture. 
+    - Provided annotation is not enough.
+    - As a result, we waste a lot of time for investigation the meaning of this visualization, but without clear results.
 
 
-
-
-
-
-
-      ```
     - How could this data visualization have been improved?  
-      ```
-      Your answer...
+     "How Common Is Your Birthday?" by Lisa Trescott, https://public.tableau.com/app/profile/lisa.trescott/viz/HowCommonIsYourBirthday_17222664505560/Birthday
+        - Maybe, little more contrast colors in some text annotations for better perception (but maybe, it's only the problem of my screen). 
 
+     "Most Popular Social Media Platforms" by Devi Arnita: https://public.tableau.com/app/profile/devi.arnita/viz/SocialMediaPlatformsDeviPublicver/CircularSankey
+     - Change the background of visualization to the light colors.
+     - Add descriptive text to help interpret the data.
+     - Include labels or numerical annotations on the visualization.
+     - Provide a legend to interpret data.
+     - Add annotations that explain the meaning of data.
+     - Add interactive elements for users.
+     - Highlight significant points. Show the maximum and minimum values.
+     - Remove overlapping elements (so many points). 
+     - Avoid multi-dimensional graphics. Use simpler formats of plots for easy-to-understand. 
+     - Provide author, organization, or research institution of the data.
 
-
-
-
-
-      
-      ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
